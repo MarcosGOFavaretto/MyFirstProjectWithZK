@@ -1,0 +1,9 @@
+<zk>
+	<window apply="org.zkoss.bind.BindComposer"
+		viewModel="@id('vm')@init('com.estudies.MyFirstProjectWithZK.MyViewModel')"
+		validationMessages="@id('vmsgs')">
+
+		<hlayout>Hello World!</hlayout>
+
+	</window>
+</zk>
